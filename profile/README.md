@@ -49,7 +49,7 @@ Complete path from simulation to real flight:
 - **Phase 3:** Raspberry Pi companion computer
 - **Phase 4:** Real hardware deployment
 
-**Status:** 🚧 Phase 1 under development
+**Status:** ✅ Phase 1 complete
 
 ---
 
@@ -61,7 +61,7 @@ Reusable packages for drone control:
 - Mission planning and execution
 - Perception and navigation
 
-**Status:** 📋 Planned for Phase 2
+**Status:** 🚧 Phase 2 in development
 
 ---
 
@@ -164,14 +164,14 @@ We welcome contributions! Here's how you can help:
 
 ## 📊 Project Status
 
-**Current Focus:** Phase 1 (Simulation Mastery)
+**Current Focus:** Phase 2 (ROS2 Integration)
 
-| Phase | Status | Target |
-|-------|--------|--------|
-| Phase 1: Simulation | 🚧 In Progress | January 2026 |
-| Phase 2: ROS2 | 📋 Planned | February 2026 |
-| Phase 3: Companion | 📋 Planned | March 2026 |
-| Phase 4: Real Hardware | 📋 Planned | April 2026 |
+| Phase | Status | Target | Completion |
+|-------|--------|--------|------------|
+| Phase 1: Simulation | ✅ Complete | January 2026 | December 2025 |
+| Phase 2: ROS2 | 🚧 In Progress | February 2026 | — |
+| Phase 3: Companion | 📋 Planned | March 2026 | — |
+| Phase 4: Real Hardware | 📋 Planned | April 2026 | — |
 
 **Follow our progress:** [Project Roadmap](https://github.com/simtofly/simtofly-guide/blob/main/SIMTOFLY_PROJECT_TODO.md)
 
