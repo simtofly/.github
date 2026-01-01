@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚁 SimToFly
+# SimToFly
 
 **From Simulation to Flight**
 
@@ -9,13 +9,13 @@
 [![GitHub Stars](https://img.shields.io/github/stars/simtofly?style=social)](https://github.com/simtofly)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[📚 Start Learning](#-getting-started) • [🎯 Features](#-what-makes-us-different) • [🤝 Contribute](#-contribute) • [💬 Community](#-community)
+[Start Learning](#-getting-started) • [Features](#-what-makes-us-different) • [Contribute](#-contribute) • [Community](#-community)
 
 </div>
 
 ---
 
-## 👋 Welcome to SimToFly
+## Welcome to SimToFly
 
 We bridge the gap between **drone simulation** and **real-world flight**.
 
@@ -26,7 +26,7 @@ Simulation → ROS2 Integration → Companion Computer → Real Hardware → Fli
 
 ---
 
-## 🎯 What Makes Us Different
+## What Makes Us Different
 
 | Feature | SimToFly | Others |
 |---------|----------|--------|
@@ -38,9 +38,9 @@ Simulation → ROS2 Integration → Companion Computer → Real Hardware → Fli
 
 ---
 
-## 📚 Getting Started
+## Getting Started
 
-### [📖 simtofly-guide](https://github.com/simtofly/simtofly-guide)
+### [simtofly-guide](https://github.com/simtofly/simtofly-guide)
 **Main tutorial repository** — Start here!
 
 Complete path from simulation to real flight:
@@ -49,11 +49,11 @@ Complete path from simulation to real flight:
 - **Phase 3:** Raspberry Pi companion computer
 - **Phase 4:** Real hardware deployment
 
-**Status:** ✅ Phase 1 complete
+**Status:** Phase 1 complete
 
 ---
 
-### [🤖 simtofly-ros2](https://github.com/simtofly/simtofly-ros2)
+### [simtofly-ros2](https://github.com/simtofly/simtofly-ros2)
 **ROS2 packages and examples** *(coming soon)*
 
 Reusable packages for drone control:
@@ -61,11 +61,11 @@ Reusable packages for drone control:
 - Mission planning and execution
 - Perception and navigation
 
-**Status:** 🚧 Phase 2 in development
+**Status:** Phase 2 in development
 
 ---
 
-### [⚙️ simtofly-setup](https://github.com/simtofly/simtofly-setup)
+### [simtofly-setup](https://github.com/simtofly/simtofly-setup)
 **Automated setup scripts** *(coming soon)*
 
 One-command installation:
@@ -74,11 +74,11 @@ One-command installation:
 - ROS2 Humble + MAVROS
 - Raspberry Pi configuration
 
-**Status:** 📋 Planned
+**Status:**  Planned
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
@@ -92,7 +92,7 @@ One-command installation:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 **New to drone autonomy?** Follow this path:
 ```bash
@@ -115,7 +115,7 @@ cd simtofly-guide/docs/phase-1-simulation
 
 ---
 
-## 🎓 Learning Path
+## Learning Path
 ```mermaid
 graph LR
     A[Complete Beginner] --> B[Phase 1: Simulation]
@@ -138,46 +138,46 @@ graph LR
 
 ---
 
-## 🤝 Contribute
+## Contribute
 
 We welcome contributions! Here's how you can help:
 
-- 🐛 **Found a bug?** [Open an issue](https://github.com/simtofly/simtofly-guide/issues)
-- 📝 **Improve docs?** [Submit a pull request](https://github.com/simtofly/simtofly-guide/pulls)
-- 💡 **Have ideas?** [Start a discussion](https://github.com/simtofly/simtofly-guide/discussions)
-- ⭐ **Like our work?** Star our repositories!
+- **Found a bug?** [Open an issue](https://github.com/simtofly/simtofly-guide/issues)
+- **Improve docs?** [Submit a pull request](https://github.com/simtofly/simtofly-guide/pulls)
+- **Have ideas?** [Start a discussion](https://github.com/simtofly/simtofly-guide/discussions)
+- **Like our work?** Star our repositories!
 
 **Read our [Contributing Guidelines](https://github.com/simtofly/simtofly-guide/blob/main/CONTRIBUTING.md)**
 
 ---
 
-## 💬 Community
+## Community
 
 **Get help and connect:**
 
-- 📖 **Documentation:** Main tutorials in [simtofly-guide](https://github.com/simtofly/simtofly-guide)
-- 🐛 **Issues:** Report problems in respective repositories
-- 💬 **Discussions:** Coming soon (Discord/Forum)
-- 🌟 **Updates:** Star repositories to get notified
+- **Documentation:** Main tutorials in [simtofly-guide](https://github.com/simtofly/simtofly-guide)
+- **Issues:** Report problems in respective repositories
+- **Discussions:** Coming soon (Discord/Forum)
+- **Updates:** Star repositories to get notified
 
 ---
 
-## 📊 Project Status
+## Project Status
 
 **Current Focus:** Phase 2 (ROS2 Integration)
 
 | Phase | Status | Target | Completion |
 |-------|--------|--------|------------|
 | Phase 1: Simulation | ✅ Complete | January 2026 | December 2025 |
-| Phase 2: ROS2 | 🚧 In Progress | February 2026 | — |
-| Phase 3: Companion | 📋 Planned | March 2026 | — |
-| Phase 4: Real Hardware | 📋 Planned | April 2026 | — |
+| Phase 2: ROS2 | In Progress | February 2026 | — |
+| Phase 3: Companion | Planned | March 2026 | — |
+| Phase 4: Real Hardware | Planned | April 2026 | — |
 
 **Follow our progress:** [Project Roadmap](https://github.com/simtofly/simtofly-guide/blob/main/SIMTOFLY_PROJECT_TODO.md)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Built on the shoulders of giants:
 
@@ -190,7 +190,7 @@ Built on the shoulders of giants:
 
 ---
 
-## 📜 License
+## License
 
 All SimToFly repositories are released under the **MIT License**.
 
@@ -198,7 +198,7 @@ You are free to use, modify, and distribute for personal or commercial projects.
 
 ---
 
-## 👤 Creator
+## Creator
 
 **Created by:** [@sidharthmohannair](https://github.com/sidharthmohannair)
 
@@ -210,7 +210,7 @@ You are free to use, modify, and distribute for personal or commercial projects.
 
 ### Ready to Start Your Journey?
 
-**[👉 Begin with Phase 1: Simulation Mastery](https://github.com/simtofly/simtofly-guide/blob/main/docs/phase-1-simulation/README.md)**
+**[Begin with Phase 1: Simulation Mastery](https://github.com/simtofly/simtofly-guide/blob/main/docs/phase-1-simulation/README.md)**
 
 ---
 
